@@ -1,0 +1,13 @@
+# My reference/learning copies - not part of my submission
+reference/
+
+# Jupyter and Anaconda working files
+.ipynb_checkpoints/
+.virtual_documents/
+anaconda_projects/
+
+# Local settings (contains the JupyterLab token)
+.claude/
+
+# macOS
+.DS_Store
