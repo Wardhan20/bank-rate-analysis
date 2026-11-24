@@ -29,7 +29,7 @@ When it goes down, the opposite happens. So it affects almost everyone.
 ## How to run
 
 1. Install Python with these libraries: pandas, numpy, matplotlib, seaborn
-2. Open `cgbank_rate_analysis.ipynb` in JupyterLab
+2. Open `bank_rate_analysis.ipynb` in JupyterLab
 3. Click **Kernel → Restart Kernel and Run All Cells**
 
 ## Author
